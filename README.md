@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+You can find me on [<img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][liprof].
+
+<!-- Links -->
+
+[liprof]: https://www.linkedin.com/in/avdichiara/
+
 <!--
 **avdichiara/avdichiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
