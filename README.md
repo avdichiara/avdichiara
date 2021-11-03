@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 You can find me on [<img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][liprof].
 
 <!-- Links -->
@@ -7,6 +9,7 @@ You can find me on [<img height="16" width="16" src="https://cdn.jsdelivr.net/np
 [liprof]: https://www.linkedin.com/in/avdichiara/
 
 <!--
+[![MasterHead](https://i.pinimg.com/originals/0b/a3/d6/0ba3d60362c7e6d256cfc1f37156bad9.jpg)](https://github.com/avdichiara)
 **avdichiara/avdichiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
